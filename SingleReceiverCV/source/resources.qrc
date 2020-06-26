@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QMLGUI.qml</file>
+        <file>img_beach.jpg</file>
+    </qresource>
+</RCC>
